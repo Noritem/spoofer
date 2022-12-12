@@ -3,7 +3,6 @@
 ## Requirements
 
 * Visual Studio 22
-* Keyauth Seller Plan
 
 ## 
 ### Keyauth
